@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Document>
+<Directory>D:\Новая папка</Directory>
+<ThreadCount>10</ThreadCount>
+  <Connection>
+    <ServerName>KLROLL-PC\SQLEXPRESS</ServerName>
+    <DataBase>Borisov_test</DataBase>
+    <User>sa</User>
+    <Password>1123</Password>
+  </Connection>
+</Document>  
